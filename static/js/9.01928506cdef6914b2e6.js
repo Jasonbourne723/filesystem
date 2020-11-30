@@ -1,0 +1,2 @@
+webpackJsonp([9],{EGej:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("h1",{staticStyle:{"text-align":"center"}},[this._v("相册分类")])])}]};var i=n("VU/8")({data:function(){return{}}},r,!1,function(e){n("eBzC")},null,null);t.default=i.exports},eBzC:function(e,t){}});
+//# sourceMappingURL=9.01928506cdef6914b2e6.js.map
